@@ -130,5 +130,27 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": ""
+  },
+  {
+    "name": "Senshi",
+    "id": 392847016,
+    "baseUrl": "https://senshi.live",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://files.catbox.moe/6s18ae.png",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://git.luna-app.eu/50n50/sources/raw/branch/main/senshi/senshi.js",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
   }
 ]
