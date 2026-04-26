@@ -87,26 +87,26 @@
     "sourceCodeLanguage": 1,
     "notes": ""
   },
-  {
-  "name": "Animetsu",
-  "id": 2115224012,
-  "baseUrl": "https://animetsu.to",
-  "lang": "en",
-  "typeSource": "single",
-  "iconUrl": "https://animetsu.live/apple-touch-icon.png",
-  "dateFormat": "",
-  "dateFormatLocale": "",
-  "isNsfw": false,
-  "hasCloudflare": false,
-  "sourceCodeUrl": "https://git.luna-app.eu/50n50/sources/raw/branch/main/gojowtf/gojowtf.js",
-  "apiUrl": "",
-  "version": "3.0.1",
-  "isManga": false,
-  "itemType": 1,
-  "isFullData": false,
-  "appMinVerReq": "0.5.0",
-  "additionalParams": "",
-  "sourceCodeLanguage": 1,
-  "notes": ""
-}
+ {
+    "name": "Animetsu",
+    "id": 2115224012,
+    "baseUrl": "https://animetsu.bz",
+    "lang": "all",
+    "typeSource": "single",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=https://animetsu.bz/",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/Mallyd11/mangayomi-anime-extensions/refs/heads/main/javascript/anime/src/all/animetsu.js",
+    "apiUrl": "",
+    "version": "1.0.2",
+    "isManga": false,
+    "itemType": 1,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
+  }
 ]
